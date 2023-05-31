@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mc123eq9k3j7v4kl?svg=true)](https://ci.appveyor.com/project/Vito-jj/testing-with-postmanecho)
+[![Build status](https://ci.appveyor.com/api/projects/status/8cy0n5ek645nevfx?svg=true)](https://ci.appveyor.com/project/SergeyLehmann/homework-testing-postmanecho)
